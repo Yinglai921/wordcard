@@ -248,6 +248,134 @@
         "note":""
     },
     {
+        "name": "exkollega",
+        "eng": "former colleague",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "löna sig",
+        "eng": "pay off",
+        "change": "",
+        "sentence":"Därför måste vi välja antingen viss stagnation eller en risk som kan löna sig.",
+        "sentenceEng":"Therefore we must choose either certain stagnation or a risk which could pay off. ",
+        "note":""
+    },
+    {
+        "name": "potentiell",
+        "eng": "potential",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "gå trögt",
+        "eng": "go slowly",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "få napp",
+        "eng": "get a response",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "smicker",
+        "eng": "flattery",
+        "change": "",
+        "sentence":"De manipulerar med hjälp av smicker.",
+        "sentenceEng":"They manipulate via flattery.",
+        "note":""
+    },
+    {
+        "name": "uppsagd",
+        "eng": "fired",
+        "change": "",
+        "sentence":"Om du blir uppsagd, ska du som regel ansöka om arbetslöshetsförmåner i det land där du senast arbetade.",
+        "sentenceEng":"If you lose your job, in general you should claim unemployment benefits in the country where you last worked.",
+        "note":""
+    },
+    {
+        "name": "arbetsbrist",
+        "eng": "labor shortage",
+        "change": "",
+        "sentence":"Arbetsbrist är den främsta orsaken till djup fattigdom.",
+        "sentenceEng":"Lack of work is the main cause of deep poverty.",
+        "note":""
+    },
+    {
+        "name": "omgivning",
+        "eng": "surrounding",
+        "change": "",
+        "sentence":"Och bestämmer sig för att ha lite mer koll på sin omgivning.",
+        "sentenceEng":"And she decides to be a little bit more aware of her surroundings.",
+        "note":""
+    },
+    {
+        "name": "ha koll på",
+        "eng": "to understand something, track sth",
+        "change": "",
+        "sentence":"Lämna din mejladress om du vill hålla koll på de senaste uppdateringarna.",
+        "sentenceEng":"Leave your e-mail address if you want to be informed about the latest changes and updates.",
+        "note":""
+    },
+    {
+        "name": "uppmärksamhet",
+        "eng": "attention",
+        "change": "",
+        "sentence":"fånga nångons uppmärksamhet",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "översta våning",
+        "eng": "top floor",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "utantill",
+        "eng": "by heart",
+        "change": "",
+        "sentence":"Jag vet inte om man får större ord - förråd av att lära ordboken utantill.",
+        "sentenceEng":"I'm not convinced that memorising the dictionary is the best way to improve your vocabulary.",
+        "note":""
+    },
+    {
+        "name": "alldeles",
+        "eng": "absolutely, all, altogether",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "tilltala",
+        "eng": "to address, to appeal",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
+        "name": "erfarenhet",
+        "eng": "experience",
+        "change": "",
+        "sentence":"",
+        "sentenceEng":" ",
+        "note":""
+    },
+    {
         "name": "",
         "eng": "",
         "change": "",
@@ -255,5 +383,6 @@
         "sentenceEng":" ",
         "note":""
     }
+
 ]
 

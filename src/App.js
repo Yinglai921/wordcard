@@ -11,12 +11,15 @@ class App extends Component {
       word:{}
     }
     this.changeWord = this.changeWord.bind(this);
+    
+
   }
 
   componentDidMount(){
     this.changeWord();
+    setInterval(this.changeWord,10000)
   }
-
+  
   changeWord(){
     let randomNum = Math.floor((Math.random() * words.length) + 1);
     this.setState({word: words[randomNum]});
@@ -25,14 +28,17 @@ class App extends Component {
   render() {
     return (
       <div className="container">
+        <div className="row">
+          <p> Total number: {words.length}</p>
+        </div>
         <div className="row" style={{marginTop: "60px"}}>
           <h3>{this.state.word.name}</h3>
         </div>
         <div className="row">
-          <h3>{this.state.word.eng}</h3>
-        </div>
-        <div className="row">
           <p>{this.state.word.sentence}</p>
+        </div>
+        <div className="row" style={{marginTop: "60px"}}>
+          <h3>{this.state.word.eng}</h3>
         </div>
         <div className="row">
           <p>{this.state.word.sentenceEng}</p>
